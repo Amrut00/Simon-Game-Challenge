@@ -25,10 +25,3 @@ You can try out the live version of Simon Game Challenge here: [Simon Game Chall
 
 This project was built as part of a coding challenge to practice JavaScript, focusing on handling events, game logic, and improving memory skills through gameplay.
 
-## Contributing
-
-Feel free to contribute by suggesting improvements, reporting issues, or adding new features. Fork the repository and submit a pull request with your contributions!
-
-## License
-
-This project is licensed under the MIT License.
